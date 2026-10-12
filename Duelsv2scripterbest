@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rysted-rbx/free/main/dmvs"))()
+loadstring(game:HttpGet("https://botthepan.onrender.com/script/afe13349c6c14bac"))()
